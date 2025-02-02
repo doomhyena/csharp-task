@@ -1,36 +1,19 @@
-# Todo Lista Alkalmazás Pythonban
+### C# Todo Lista Alkalmazás
 
-## Funkciók
+#### Funkciók
 - Feladatok hozzáadása a listához.
 - Feladatok megtekintése számozott listában.
 - Feladatok eltávolítása a lista sorszáma alapján.
 - Egyszerű konzolos menürendszer a funkciók eléréséhez.
 
-## Telepítés
+#### Telepítés
 
 ### Előfeltételek
 
 Győződj meg róla, hogy a következő program telepítve van a rendszeredre:
-- [Python 3.7 vagy újabb](https://www.python.org/downloads/)
+- [.NET SDK](https://dotnet.microsoft.com/download)
 
-### Telepítés lépései
-
-1. Klónozd a projektet a GitHub-ról (példa URL):
-   ```bash
-   git clone https://github.com/doomhyena/python-todo.git
-   ```
-
-2. Navigálj a projekt mappájába:
-   ```bash
-   cd python-todo
-   ```
-
-3. Futtasd az alkalmazást:
-   ```bash
-   python todo_app.py
-   ```
-
-## Használat
+#### Használat
 
 1. Indítás után a konzolon megjelenik egy menü:
    - 1: Új feladat hozzáadása.
@@ -44,7 +27,7 @@ Győződj meg róla, hogy a következő program telepítve van a rendszeredre:
 
 4. A program addig fut, amíg a kilépési opciót nem választod.
 
-## Példa használat
+#### Példa használat
 
 ### Feladat hozzáadása
 Adja meg a feladat szövegét:
