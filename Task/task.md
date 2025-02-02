@@ -1,11 +1,11 @@
-# Feladat: "Készíts egy egyszerű Todo alkalmazást Pythonban!"
+# Feladat: "Készíts egy egyszerű Todo alkalmazást C#-ban!"
 
 ## Leírás:
-Készíts egy Python programot, amely egy egyszerű Todo listát kezelő alkalmazásként működik. Az alkalmazás lehetővé teszi a felhasználó számára, hogy feladatokat adjon hozzá, jelenítsen meg, és töröljön egy menüvezérelt rendszer segítségével.
+Készíts egy C# programot, amely egy egyszerű Todo listát kezelő alkalmazásként működik. Az alkalmazás lehetővé teszi a felhasználó számára, hogy feladatokat adjon hozzá, jelenítsen meg, és töröljön egy menüvezérelt rendszer segítségével.
 
 ## Feladatok:
 1. **Feladatok tárolása**:
-   - Tárold a feladatokat egy Python listában, ahol minden feladat egy szövegként (`str`) szerepel.
+   - Tárold a feladatokat egy `List<string>` típusú listában, ahol minden feladat egy szövegként (`string`) szerepel.
 
 2. **Felhasználói interakció**:
    - Hozz létre egy menürendszert, ahol a felhasználó az alábbi opciók közül választhat:
@@ -31,8 +31,8 @@ Készíts egy Python programot, amely egy egyszerű Todo listát kezelő alkalma
    - Az alkalmazás addig fusson, amíg a felhasználó nem választja a "Kilépés" opciót.
 
 ## Pontos instrukciók:
-- A programot egy Python fájlban (`todo_app.py`) valósítsd meg.
-- Használj `input()` függvényt a felhasználói bevitel kezelésére.
+- A programot egy C# fájlban (`TodoApp.cs`) valósítsd meg.
+- Használj `Console.ReadLine()` függvényt a felhasználói bevitel kezelésére.
 - Gondoskodj a bevitel helyes kezeléséről (pl. csak számokat fogadj el menüpont választásakor).
 - A feladatok szövege tetszőleges lehet, de üres bevitel ne kerülhessen a listába.
 - A feladat eltávolításánál kezeld az érvénytelen sorszámokat (pl. negatív szám vagy a lista méretén kívüli szám).
