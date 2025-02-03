@@ -1,0 +1,14 @@
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/bin/Debug/net9.0/Sulotion
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/bin/Debug/net9.0/Sulotion.deps.json
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/bin/Debug/net9.0/Sulotion.runtimeconfig.json
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/bin/Debug/net9.0/Sulotion.dll
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/bin/Debug/net9.0/Sulotion.pdb
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/Sulotion.GeneratedMSBuildEditorConfig.editorconfig
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/Sulotion.AssemblyInfoInputs.cache
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/Sulotion.AssemblyInfo.cs
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/Sulotion.csproj.CoreCompileInputs.cache
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/Sulotion.dll
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/refint/Sulotion.dll
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/Sulotion.pdb
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/Sulotion.genruntimeconfig.cache
+/home/doomhyena/RiderProjects/Sulotion/Sulotion/obj/Debug/net9.0/ref/Sulotion.dll
